@@ -12,3 +12,5 @@ http://localhost:8080/api/ventas/1234
 
 
 Folder evidencias: pantallazos al consumir servicio para los use case de listar facturas por fecha y buscar detalle factura.
+
+Foder tienda-comidas: codigo fuente.
